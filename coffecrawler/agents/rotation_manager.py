@@ -1,6 +1,7 @@
 """
 🔄 ROTATION MANAGER - Advanced Identity & Resource Rotation for CoffeCrawler
-Revolutionary rotation system with intelligent IP, user agent, fingerprint management, and active defense mechanisms
+Revolutionary rotation system with intelligent IP, user agent, fingerprint management, and active defense mechanisms.
+Why you do thats manager?
 """
 
 import random
