@@ -82,7 +82,7 @@ Based on the technology used in this project:
 Thank you once again for your contribution!
 
 ===
-Indonesian
+Local [Indonesian]
 ===
 
 # Panduan Kontribusi untuk CoffeCrawler
