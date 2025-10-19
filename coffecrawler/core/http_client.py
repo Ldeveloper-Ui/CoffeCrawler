@@ -109,7 +109,7 @@ class HTTPClient:
     
     def _get_user_agent(self) -> str:
         """Get appropriate user agent string"""
-        agent_module = self.crawler.agent_module.lower()
+        agent_module = self.crawler.config.agent_module.lower()
         mobile = self.crawler.mobile_emulation
         
         user_agents = {

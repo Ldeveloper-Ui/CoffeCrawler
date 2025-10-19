@@ -65,7 +65,7 @@ class ProblemPattern:
     learning_weight: float
 
 
-class QuantumDebugFixer:
+class DebugFixer:
     """
     🔧 QUANTUM DEBUG FIXER - Revolutionary Auto-Debugging System
     
@@ -1315,9 +1315,9 @@ class MemoryManager:
 
 
 # Factory function
-def create_quantum_debug_fixer(crawler, auto_fix: bool = True) -> QuantumDebugFixer:
+def create_debug_fixer(crawler, auto_fix: bool = True) -> DebugFixer:
     """Factory function to create quantum debug fixer"""
-    fixer = QuantumDebugFixer(crawler)
+    fixer = DebugFixer(crawler)
     fixer.auto_fix_enabled = auto_fix
     return fixer
 
