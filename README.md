@@ -240,11 +240,11 @@ Termux Mobile optimization Optimized High
 
 <div align="center">
 
-Metric CoffeCrawler Traditional
-Success Rate 🟢 95% 🟡 70%
-Speed 🟢 2.3x faster 🟡 1x
-Detection Avoidance 🟢 92% 🟡 45%
-Adaptability 🟢 AI-Powered 🔴 Static
+Metric CoffeCrawler   Vs   Traditional
+Success Rate 🟢 95%         🟡 70%
+Speed 🟢 2.3x faster        🟡 1x
+Detection Avoidance 🟢 92%  🟡 45%
+Adaptability 🟢 AI-Powered  🔴 Static
 
 </div>
 
