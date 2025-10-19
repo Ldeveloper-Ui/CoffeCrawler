@@ -1,5 +1,5 @@
 # ☕ CoffeCrawler Now
-
+[For information : This beta 1.0.0.1]
 <div align="center">
 
 ![CoffeCrawler Banner](https://via.placeholder.com/1200x400/2D3748/FFFFFF?text=☕+CoffeCrawler+AI+Powered+Web+Crawling)
