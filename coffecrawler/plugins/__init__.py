@@ -1,6 +1,7 @@
 """
 PLUGINS MODULE - Extensible Browser & Functionality Plugins
-Expand CoffeCrawler's capabilities with powerful plugins
+Expand CoffeCrawler's capabilities with powerful plugins.
+Plugins is Here!
 """
 
 from .browser_plugins import (
