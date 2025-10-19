@@ -92,6 +92,13 @@ pip install "coffecrawler[mobile]"
 
 # Full power (recommended)
 pip install "coffecrawler[full]"
+
+# If error [Not list in Pypi] User this.
+pip install git+https://github.com/Ldeveloper-Ui/CoffeCrawler.git
+# For development [If error]
+git clone https://github.com/Ldeveloper-Ui/CoffeCrawler.git
+cd CoffeCrawler
+pip install -e .
 ```
 ![Coffe Crawler](docs/assets/Coffe_official.png)
 
