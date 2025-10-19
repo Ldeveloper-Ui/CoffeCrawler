@@ -1,6 +1,7 @@
 """
-🎯 STRATEGY SELECTOR - AI-Powered Adaptive Strategy Management
-Next-generation strategy selection with machine learning and real-time adaptation
+🎯 STRATEGY SELECTOR - AI-Powered Adaptive Strategy Management.
+Next-generation strategy selection with machine learning and real-time adaptation.
+Bro I'm adaptating right now.
 """
 
 import random
