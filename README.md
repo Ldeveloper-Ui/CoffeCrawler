@@ -432,3 +432,47 @@ https://img.shields.io/badge/Email-vlskthegamer@gmail.com-red?style=for-the-badg
 https://via.placeholder.com/1200x100/1a202c/FFFFFF?text=☕+Happy+Crawling+with+CoffeCrawler!
 
 </div>
+___
+
+## 🐛 If error Or Bugs! (recommend)
+**Termux**
+- Download this and install the packages.
+
+```
+# Update and upgrade first.
+pkg update && pkf upgrade
+
+# Download Proot for more free.
+pkg install proot-distro
+
+# Download Ubuntu (Recommend)
+proot-distro install ubuntu
+
+# Login ubuntu
+proot-distro login ubuntu
+```
+- Optimized You can download alpine.
+
+```
+# update anda upgrade first.
+pkg update && pkg upgrade
+
+# Install proot
+pkg install proot-distro
+
+# Download Alpine
+proot-distro install alpine
+
+# And login Alpine
+proot-distro login alpine
+```
+# Information 📜
+**Proot-distro**
+- Basic / short explanation.
+**proot-distro** 
+is not Real root, proot distro is different and not completely in termux or android system.so calm down Proot-distro is different and not original root.
+- End Thank Give us 5☆ in issue for The information.
+**Thank you!**
+# ☆☆☆☆☆ ~5
+from : Ldeveloper-Ui.
+
