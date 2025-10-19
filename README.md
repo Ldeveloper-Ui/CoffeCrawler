@@ -26,12 +26,6 @@
 
 > ✨ **Imagine a crawler that learns, adapts, and evolves - that's CoffeCrawler!**
 
-
-## 🐛 Beta version [1.0.0.1] 
-
-- Sorry if there are still errors, this is still under testing. 
-- our trial phase is currently underway. progress [2 Month of project] not guaranted **100%** work.
-
 ![Demo Animation](https://via.placeholder.com/800x400/1a202c/FFFFFF?text=AI+Adaptive+Crawling+Demo+GIF)
 
 ## 🚀 Why CoffeCrawler?
@@ -54,6 +48,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - ✅ Ethical web scraping required
 **Links**
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+~~~~~~~~~~~~~~~~~~~~~~~
+## 🐛 Beta version [1.0.0.1] 
+
+- Sorry if there are still errors, this is still under testing. 
+- our trial phase is currently underway. progress [2 Month of project] not guaranted **100%** work. 
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 ## ⭐ Super Features [Advance Feature]
 
