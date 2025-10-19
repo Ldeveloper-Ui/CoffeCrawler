@@ -1,5 +1,5 @@
 # ☕ CoffeCrawler Now
-[For information : This beta 1.0.0.1]
+
 <div align="center">
 
 ![CoffeCrawler Banner](https://via.placeholder.com/1200x400/2D3748/FFFFFF?text=☕+CoffeCrawler+AI+Powered+Web+Crawling)
@@ -25,6 +25,10 @@
 **CoffeCrawler** is a revolutionary, AI-powered web crawling library that combines cutting-edge machine learning with advanced browser automation to create the most intelligent and adaptive web scraping solution available.
 
 > ✨ **Imagine a crawler that learns, adapts, and evolves - that's CoffeCrawler!**
+
+#🐛Beta version [1.0.0.1] 
+- Sorry if there are still errors, this is still under testing. 
+- our trial phase is currently underway. progress [2 Month of project] not guaranted **100%** work.
 
 ![Demo Animation](https://via.placeholder.com/800x400/1a202c/FFFFFF?text=AI+Adaptive+Crawling+Demo+GIF)
 
