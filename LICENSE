@@ -1,4 +1,4 @@
-☕ MIT License for CoffeCrawler
+MIT License For CoffeCrawler☕
 
 Copyright (c) 2025 Ldeveloper-Ui
 
@@ -12,12 +12,6 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-⭐ Special Notice for Web Scraping, AI, and Automation
-
-This software is designed for purposes including web scraping, browser automation, and artificial intelligence (AI).Users are strongly encouraged to scrape ethically: respect robots.txt, website terms of service, privacy policies, and all applicable laws.Use this software only for legal, authorized, and ethical purposes (research, education, personal use, etc.).The author(s) and contributors hold no liability for any misuse, illegal activity, data breach, or violation arising from use of this software.Please respect to, robots.txt, Terms of Services on the target site.This repo Is for Educational / purpose, not for illegal or Inviting users to do illegal activiy.
-
-⚠️ Disclaimer
-
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -26,15 +20,146 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-🇮🇩 Catatan Dalam Bahasa Indonesia
+=============================================================
+             ETHICAL USAGE GUIDELINES
+=============================================================
 
-Lisensi ini mengizinkan penggunaan bebas, modifikasi, distribusi, dan penjualan software.Pengguna diharapkan selalu mematuhi hukum, robots.txt, dan Terms of Service situs target.Gunakan software ini secara etis dan bertanggung jawab.Pengembang tidak bertanggung jawab atas penggunaan yang melanggar hukum.
+This software (CoffeCrawler) is designed for educational and research purposes
+related to web crawling, data extraction, and automation. As a user, you are
+legally and ethically responsible for how you use this tool.
 
-📬 Contact & Kontribusi
+🛑 IMPORTANT LEGAL DISCLAIMER:
+- The developers are NOT lawyers and this is not legal advice
+- Laws regarding web scraping vary by country and jurisdiction
+- You are solely responsible for ensuring your usage complies with applicable laws
 
-Developer: Ldeveloper-UiEmail: vlskthegamer@gmail.comUntuk kontribusi, perbaikan, atau pertanyaan, silakan cek README.md dan ajukan pull request!
+✅ REQUIRED ETHICAL PRACTICES:
 
-AFFIRMATION
+1. RESPECT ROBOTS.TXT:
+   - Always check and obey robots.txt files
+   - Honor Crawl-Delay directives
+   - Avoid disallowed paths
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+2. IMPLEMENT RATE LIMITING:
+   - Add delays between requests (recommended: 2-5 seconds minimum)
+   - Don't overwhelm target servers
+   - Monitor server response times and adjust accordingly
 
+3. IDENTIFY YOURSELF PROPERLY:
+   - Use a descriptive User-Agent string
+   - Provide contact information in headers if required
+   - Don't pretend to be a human browser unless necessary for functionality
+
+4. RESPECT TERMS OF SERVICE:
+   - Read and comply with website Terms of Service
+   - Don't circumvent anti-bot measures
+   - Only access publicly available data
+
+5. DATA HANDLING:
+   - Don't collect personal information without consent
+   - Respect copyright and intellectual property
+   - Securely store any collected data
+
+❌ STRICTLY PROHIBITED USES:
+
+- Any illegal activities or unauthorized access
+- Denial-of-service attacks or overwhelming servers
+- Scraping private, password-protected, or paid content
+- Violating specific website terms of service
+- Commercial misuse without explicit permission
+- Any activity that could harm the target website or its users
+
+🎯 INTENDED LEGAL USE CASES:
+
+- Academic research and education
+- Personal learning projects
+- Data analysis with proper authorization
+- Building search engine indexes with permission
+- Archiving public domain content
+
+=============================================================
+      BAHASA INDONESIA - PANDUAN PENGGUNAAN ETIS (Local)
+=============================================================
+
+Perangkat lunak ini (CoffeCrawler) dirancang untuk tujuan edukasi dan penelitian
+dalam bidang web crawling, ekstraksi data, dan otomasi. Sebagai pengguna, Anda
+bertanggung jawab secara hukum dan etis atas cara Anda menggunakan alat ini.
+
+🛑 PENAFIAN PENTING:
+- Pengembang BUKAN pengacara dan ini bukan nasihat hukum
+- Hukum mengenai web scraping berbeda di setiap negara dan yurisdiksi
+- Anda bertanggung jawab penuh untuk memastikan penggunaan sesuai hukum yang berlaku
+
+✅ PRAKTIK ETIS YANG DIWAJIBKAN:
+
+1. HARGAI ROBOTS.TXT:
+   - Selalu periksa dan patuhi file robots.txt
+   - Hormati arahan Crawl-Delay
+   - Hindari path yang tidak diizinkan
+
+2. TERAPKAN PEMBATASAN FREKUENSI:
+   - Tambahkan jeda antara permintaan (disarankan: 2-5 detik minimum)
+   - Jangan membebani server target
+   - Pantau waktu respons server dan sesuaikan accordingly
+
+3. IDENTIFIKASI DIRI DENGAN BENAR:
+   - Gunakan string User-Agent yang deskriptif
+   - Sediakan informasi kontak di header jika diperlukan
+   - Jangan berpura-pura menjadi browser manusia kecuali diperlukan
+
+4. HARGAI SYARAT DAN KETENTUAN:
+   - Baca dan patuhi Syarat Layanan website
+   - Jangan mengelak dari tindakan anti-bot
+   - Hanya akses data yang tersedia untuk publik
+
+5. PENANGANAN DATA:
+   - Jangan kumpulkan informasi pribadi tanpa izin
+   - Hormati hak cipta dan kekayaan intelektual
+   - Simpan data yang dikumpulkan dengan aman
+
+❌ PENGGUNAAN YANG DILARANG KERAS:
+
+- Aktivitas ilegal atau akses tidak terotorisasi
+- Serangan denial-of-service atau membebani server
+- Scraping konten pribadi, terproteksi password, atau berbayar
+- Melanggar syarat layanan website tertentu
+- Penyalahgunaan komersial tanpa izin eksplisit
+- Aktivitas apa pun yang dapat membahayakan website target atau penggunanya
+
+🎯 KASUS PENGGUNAAN LEGAL YANG DIIZINKAN:
+
+- Penelitian akademik dan pendidikan
+- Proyek pembelajaran pribadi
+- Analisis data dengan otorisasi yang tepat
+- Membangun indeks mesin pencari dengan izin
+- Mengarsipkan konten domain publik
+
+=============================================================
+                     CONTACT & SUPPORT
+=============================================================
+
+Developer: Ldeveloper-Ui
+Email: vlskthegamer@gmail.com
+GitHub Repository: https://github.com/Ldeveloper-Ui/CoffeCrawler
+
+For questions about:
+- Ethical usage: Please research your local laws and website terms
+- Technical issues: Open an issue on GitHub
+- Contributions: Submit pull requests following the contribution guidelines
+- Legal concerns: Consult with a qualified legal professional
+
+=============================================================
+                    FINAL DISCLAIMER
+=============================================================
+
+BY USING THIS SOFTWARE, YOU ACKNOWLEDGE THAT:
+
+1. You have read and understand these guidelines
+2. You take full legal responsibility for your usage
+3. The developers cannot and will not be liable for any misuse
+4. You will use this software only for legal, ethical purposes
+5. You understand that web scraping may have legal consequences
+
+This software is provided for EDUCATIONAL PURPOSES. Use responsibly and ethically.
+
+Last updated: 2025-oct-19
