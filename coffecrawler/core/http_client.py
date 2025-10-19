@@ -1,6 +1,7 @@
 """
 🚀 HTTP CLIENT - Lightning-Fast HTTP Engine for CoffeCrawler
-Advanced HTTP client with caching, retry mechanisms, and smart optimization
+Advanced HTTP client with caching, retry mechanisms, and smart optimization.
+The traffic is so slow. sorry.
 """
 
 import requests
