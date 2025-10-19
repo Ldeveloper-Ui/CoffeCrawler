@@ -1,6 +1,7 @@
 """
 🤖 AI AGENTS MODULE - Advanced Bot Intelligence Systems
-Next-generation AI agents with adaptive strategies and human emulation
+Next-generation AI agents with adaptive strategies and human emulation.
+Dev is here Guys
 """
 
 from .bot_agent import BotAgent
