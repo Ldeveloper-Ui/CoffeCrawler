@@ -26,7 +26,9 @@
 
 > ✨ **Imagine a crawler that learns, adapts, and evolves - that's CoffeCrawler!**
 
-#🐛Beta version [1.0.0.1] 
+
+## 🐛 Beta version [1.0.0.1] 
+
 - Sorry if there are still errors, this is still under testing. 
 - our trial phase is currently underway. progress [2 Month of project] not guaranted **100%** work.
 
