@@ -50,7 +50,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ~~~~~~~~~~~~~~~~~~~~~~~
-## 🐛 Beta version [1.0.0.1] 
+🐛 Beta version [1.0.0.1] 
 
 - Sorry if there are still errors, this is still under testing. 
 - our trial phase is currently underway. progress [2 Month of project] not guaranted **100%** work. 
