@@ -18,6 +18,8 @@ copies or substantial portions of the Software.
 - Users are strongly encouraged to **scrape ethically**: respect robots.txt, website terms of service, privacy policies, and all applicable laws.
 - Use this software only for legal, authorized, and ethical purposes (research, education, personal use, etc.).
 - The author(s) and contributors hold **no liability** for any misuse, illegal activity, data breach, or violation arising from use of this software.
+-Please respect to, robots.txt, Terms of Services on the target site.
+-This repo Is for Educational / purpose, not for illegal or Inviting users to do illegal activiy.
 
 ## ⚠️ Disclaimer
 
