@@ -436,9 +436,9 @@ ___
 
 ## 🐛 If error Or Bugs! (recommend)
 **Termux**
-- Download this and install the packages.
+- install this and the ubuntu.
 
-```
+```bash
 # Update and upgrade first.
 pkg update && pkf upgrade
 
@@ -451,9 +451,9 @@ proot-distro install ubuntu
 # Login ubuntu
 proot-distro login ubuntu
 ```
-- Optimized You can download alpine.
+- Optimized, You can download alpine.
 
-```
+```bash
 # update anda upgrade first.
 pkg update && pkg upgrade
 
@@ -471,8 +471,8 @@ proot-distro login alpine
 - Basic / short explanation.
 **proot-distro** 
 is not Real root, proot distro is different and not completely in termux or android system.so calm down Proot-distro is different and not original root.
-- End Thank Give us 5☆ in issue for The information.
+- End Thank Give us 5☆ in issue for The information....
 **Thank you!**
-# ☆☆☆☆☆ ~5
-from : Ldeveloper-Ui.
+# 5 stars.
+- **from : Ldeveloper-Ui.**
 
