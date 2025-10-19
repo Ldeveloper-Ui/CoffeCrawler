@@ -239,11 +239,13 @@ Termux Mobile optimization Optimized High
 📊 Performance Metrics
 
 <div align="center">
-Metric CoffeCrawler   Vs   Traditional
+
+Metric CoffeCrawler        Traditional
 Success Rate 🟢 95%         🟡 70%
 Speed 🟢 2.3x faster        🟡 1x
 Detection Avoidance 🟢 92%  🟡 45%
 Adaptability 🟢 AI-Powered  🔴 Static
+
 </div>
 
 🔧 Configuration Examples
