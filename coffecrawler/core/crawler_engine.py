@@ -1,6 +1,7 @@
 """
 ☕ CRAWLER ENGINE - The Brain of CoffeCrawler
-Revolutionary multi-engine crawling system with AI-powered decision making
+Revolutionary multi-engine crawling system with AI-powered decision making.
+Don't steal my Informatoions!
 """
 
 import asyncio
