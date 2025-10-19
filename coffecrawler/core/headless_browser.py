@@ -1,6 +1,7 @@
 """
 🚀 HEADLESS BROWSER - Advanced Headless Browser Engine for CoffeCrawler
-Revolutionary browser automation with stealth, AI-powered behavior, and multi-engine support
+Revolutionary browser automation with stealth, AI-powered behavior, and multi-engine support.
+Where my head.
 """
 
 import asyncio
