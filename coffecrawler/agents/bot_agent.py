@@ -1,6 +1,7 @@
 """
 🤖 BOT AGENT - Advanced AI-Powered Decision Engine for CoffeCrawler
-Revolutionary intelligent agent with machine learning, pattern recognition, and adaptive strategies
+Revolutionary intelligent agent with machine learning, pattern recognition, and adaptive strategies.
+Why? Ldeveloper is busy Guys.
 """
 
 import random
