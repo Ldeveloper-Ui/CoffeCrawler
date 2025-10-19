@@ -438,9 +438,9 @@ ___
 **Termux**
 - install this and the ubuntu.
 
-```bash
+```Termux - bash
 # Update and upgrade first.
-pkg update && pkf upgrade
+pkg update && pkg upgrade
 
 # Download Proot for more free.
 pkg install proot-distro
@@ -453,7 +453,7 @@ proot-distro login ubuntu
 ```
 - Optimized, You can download alpine.
 
-```bash
+```Termux - bash
 # update anda upgrade first.
 pkg update && pkg upgrade
 
