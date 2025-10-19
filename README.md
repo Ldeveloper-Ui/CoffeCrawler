@@ -40,7 +40,19 @@
 
 ## ⭐ Super Features
 
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**Quick Summary:**
+- ✅ Free to use, modify, distribute
+- ✅ Must include original copyright notice  
+- ✅ No liability - use at your own risk
+- ✅ Ethical web scraping required
+**Links**
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ### 🧠 AI-Powered Intelligence
+
 <div align="center">
 
 ![AI Features](https://via.placeholder.com/600x200/4A5568/FFFFFF?text=🤖+AI+Powered+Intelligence)
