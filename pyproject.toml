@@ -9,7 +9,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "coffecrawler"
 dynamic = ["version"]
-description = "☕ Next-Generation AI-Powered Web Crawling Library - Smart, Adaptive, Revolutionary"
+description = "☕ Next-Generation AI-Powered Web Crawling1 Library - Smart, Adaptive, Revolutionary"
 authors = [
     {name = "Ldeveloper-Ui", email = "vlskthegamer@gmail.com"},
 ]
