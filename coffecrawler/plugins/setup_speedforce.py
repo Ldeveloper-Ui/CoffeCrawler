@@ -1,5 +1,6 @@
 """
-Setup script for SpeedForce C++ extension with maximum optimization
+Setup script for SpeedForce C++ extension with maximum optimization.
+Bro thinks he's A flash.
 """
 
 from setuptools import setup, Extension
