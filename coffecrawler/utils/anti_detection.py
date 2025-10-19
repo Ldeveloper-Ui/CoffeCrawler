@@ -1,7 +1,8 @@
 """
 ADVANCED ANTI-DETECTION SYSTEM
 Quantum Stealth Technology for Web Scraping
-Advanced evasion techniques to avoid bot detection
+Advanced evasion techniques to avoid bot detection.
+Techonologiaa~
 """
 
 import random
