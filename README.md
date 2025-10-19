@@ -1,4 +1,4 @@
-# ☕ CoffeCrawler Now
+# ☕ CoffeCrawler
 
 <div align="center">
 
