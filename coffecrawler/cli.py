@@ -1,5 +1,6 @@
 """
 ☕ CoffeCrawler CLI - Command Line Interface
+i'm boring really.
 """
 
 import click
