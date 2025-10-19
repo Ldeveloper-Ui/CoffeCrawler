@@ -70,8 +70,8 @@ Before you start, make sure you have set up your development environment accordi
 
 Based on the technology used in this project:
 
-* **Language:** All code is written in **Kotlin**.
-* **Architecture:** Please follow the existing architectural pattern (likely MVVM).
+* **Language:** All code is written in **Python**.
+* **Architecture:** Please follow the existing architectural pattern (MVVM).
 * **UI:** Use **Jetpack Compose** for all new UI components.
 * **Asynchronicity:** Use **Kotlin Coroutines** for background or network operations.
 * **Dependency Injection:** Use **Hilt** to provide dependencies.
