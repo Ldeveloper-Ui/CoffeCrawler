@@ -1,0 +1,37 @@
+CoffeCrawler/
+├── 📄 README.md
+├── 📄 pyproject.toml
+--- 📄 requirements.txt
+├── 📄 setup.py
+├── 📁 coffecrawler/
+│   ├── __init__.py
+│   ├── core/
+│   │   ├── __init__.py
+│   │   ├── crawler_engine.py
+│   │   ├── http_client.py
+│   │   ├── headless_browser.py
+│   │   └── parser_engine.py
+│   ├── agents/
+│   │   ├── __init__.py
+│   │   ├── bot_agent.py
+│   │   ├── human_emulator.py
+│   │   └── rotation_manager.py
+│   ├── utils/
+│   │   ├── __init__.py
+│   │   ├── data_extractor.py
+│   │   ├── anti_detection.py
+│   │   ├── cache_manager.py
+│   │   └── debug_fixer.py
+│   └── plugins/
+│       ├── __init__.py
+│       └── browser_plugins.py
+        |___SpeedForce.cpp
+        |___init.py
+        |___setup_speedforce.py
+     =Testing : /
+      test_data.py
+      test_engine.py
+      test_agents.py
+      test_utils.py
+      test_all.py
+=/=/=/=/=_If error sorry! is Beta 1.0.0.0_\=\=\=\=\=\
