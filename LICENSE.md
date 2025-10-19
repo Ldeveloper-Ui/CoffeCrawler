@@ -38,7 +38,7 @@ SOFTWARE.
 - Lisensi ini mengizinkan penggunaan bebas, modifikasi, distribusi, dan penjualan software.
 - Pengguna diharapkan selalu mematuhi hukum, robots.txt, dan Terms of Service situs target.
 - Gunakan software ini secara etis dan bertanggung jawab.  
-- Pengembang tidak bertanggung jawab atas penggunaan yang melanggar hukum.
+- Pengembang tidak bertanggung jawab atas penggunaan yang melanggar hukum. Thanks
 
 ---
 
