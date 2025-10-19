@@ -1,6 +1,7 @@
 """
 🎯 PARSER ENGINE - Advanced HTML Parsing & Data Extraction for CoffeCrawler
-Revolutionary parsing with AI-powered extraction, multi-backend support, and smart data processing
+Revolutionary parsing with AI-powered extraction, multi-backend support, and smart data processing.
+My data is to much.
 """
 
 import re
