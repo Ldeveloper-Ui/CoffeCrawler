@@ -2,6 +2,7 @@
 QUANTUM CACHE MANAGER
 Advanced caching system with multiple storage backends and intelligent eviction
 High-performance cache with TTL, compression, and persistence
+I am a garbage collector and proud.
 """
 
 import json
