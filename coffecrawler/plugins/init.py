@@ -1,5 +1,6 @@
 """
-PLUGINS MODULE - Quantum Extensible Plugins for CoffeCrawler
+PLUGINS MODULE - Quantum Extensible Plugins for CoffeCrawler.
+Nuh my SpeedForce is not have _ 😭
 """
 
 from .browser_plugins import QuantumBrowserPlugin, create_quantum_browser_plugin, QuantumBrowserProfile
