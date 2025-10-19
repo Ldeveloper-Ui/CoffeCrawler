@@ -468,23 +468,24 @@ proot-distro login alpine
 ```
 # Information 📜
 **Proot-distro**
-- Basic / short explanation.
+- Basic / short explanation..
+
 **proot-distro** 
 is not Real root, proot distro is different and not completely in termux or android system.so calm down Proot-distro is different and not original root.
-- Advance Exlanation.
+- **Advance Exlanation.**
 
 - **Termux**
-- Android terminal emulator with Linux environment
-- No root required
-- APT package management (`pkg`)
-- Complete development tools
+ Android terminal emulator with Linux environment
+ No root required
+ APT package management (`pkg`)
+ Complete development tools
 
 - **PRoot** 
 
-- User-space `chroot` alternative
-- Runs Linux distros without root access
-- Provides filesystem isolation
-- Handles privileged syscalls
+ User-space `chroot` alternative
+ Runs Linux distros without root access
+ Provides filesystem isolation
+ Handles privileged syscalls
 
 - **proot-distro**
 Termux's official distro manager:
