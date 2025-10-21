@@ -6,7 +6,7 @@ All contributions, whether it's bug reports, new feature requests, or code impro
 
 ## 📜 Code of Conduct
 
-To ensure a friendly and inclusive environment for everyone, we expect all contributors to read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). (Note: You may need to create this `CODE_OF_CONDUCT.md` file separately).
+To ensure a friendly and inclusive environment for everyone, we expect all contributors to read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## 🚀 How to Contribute
 
