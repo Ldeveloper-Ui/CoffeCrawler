@@ -34,12 +34,12 @@ By using this software, you agree to:
 
 ---
 
-## Penegasan
+# Disclaimer
 
-**Dengan menggunakan CoffeCrawler, Anda setuju bahwa segala risiko dan konsekuensi hukum yang timbul dari penggunaan software ini sepenuhnya menjadi tanggung jawab Anda, bukan developer, kontributor, ataupun pemilik repository.**
+- **By using CoffeCrawler, you agree that any risks and legal consequences arising from the use of this software are entirely your own responsibility, and not that of the developer, contributors, or the repository owner.**
 
-**Developer, kontributor, dan pemilik repository tidak dapat dituntut atau dimintai pertanggungjawaban atas penyalahgunaan atau pelanggaran hukum yang dilakukan pengguna.**
+- **The developer, contributors, and repository owner cannot be held liable or accountable for any misuse or legal violations committed by the user.**
 
 ---
 
-Terima kasih telah menjaga keamanan, etika, dan legalitas dalam penggunaan CoffeCrawler! ☕🛡️
+Thank you for maintaining the safety, ethics, and legality of using CoffeCrawler! ☕🛡️ 
