@@ -55,7 +55,7 @@ class CacheStats:
     compression_savings: float = 0.0
     total_size: int = 0
 
-class QuantumCacheManager:
+class CacheManager:
     """
     QUANTUM CACHE MANAGER
     Advanced caching system with multiple storage strategies
@@ -751,15 +751,15 @@ class QuantumCacheManager:
             self.logger.info("🔚 Cache manager closed")
 
 # Convenience functions
-def create_cache_manager(backend: str = "sqlite", **kwargs) -> QuantumCacheManager:
+def create_cache_manager(backend: str = "sqlite", **kwargs) -> CacheManager:
     """Create a cache manager with specified backend"""
     backend_enum = CacheBackend(backend.lower())
     config = CacheConfig(**kwargs)
-    return QuantumCacheManager(config, backend_enum)
+    return CacheManager(config, backend_enum)
 
-def quick_cache() -> QuantumCacheManager:
+def quick_cache() -> CacheManager:
     """Create a quick cache manager with default settings"""
-    return QuantumCacheManager()
+    return CacheManager()
 
 if __name__ == "__main__":
     # Test the cache manager

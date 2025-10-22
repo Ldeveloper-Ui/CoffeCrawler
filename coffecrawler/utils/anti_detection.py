@@ -31,7 +31,7 @@ class StealthProfile:
     canvas_hash: str = ""
     webgl_hash: str = ""
 
-class QuantumAntiDetection:
+class AntiDetection:
     """
     QUANTUM ANTI-DETECTION SYSTEM
     Advanced evasion techniques using behavioral analysis and fingerprint spoofing
@@ -461,13 +461,13 @@ class QuantumAntiDetection:
             return False
 
 # Convenience functions
-def create_stealth_session(profile: str = "stealth") -> QuantumAntiDetection:
+def create_stealth_session(profile: str = "stealth") -> AntiDetection:
     """Create a new stealth session with the specified profile"""
-    return QuantumAntiDetection(profile)
+    return AntiDetection(profile)
 
 def quick_stealth_headers() -> Dict[str, str]:
     """Quick function to get basic stealth headers"""
-    stealth = QuantumAntiDetection()
+    stealth = AntiDetection()
     return stealth.generate_stealth_headers()
 
 if __name__ == "__main__":

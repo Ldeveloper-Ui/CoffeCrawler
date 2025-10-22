@@ -451,6 +451,104 @@ class IdentityError(CoffeCrawlerError):
             **kwargs
         )
 
+class DataExtractionError(CoffeCrawlerError):
+    """Raised when data extraction fails"""
+    def __init__(self, extraction_rule: str, reason: str, **kwargs):
+        context = {'extraction_rule': extraction_rule, 'reason': reason}
+        auto_fix = "Try: refine_extraction_rule(), use_alternative_extractor(), or improve_pre_processing()"
+        super().__init__(
+            message=f"Data extraction failed for rule '{extraction_rule}': {reason}",
+            error_code="DATA_EXTRACTION_ERROR",
+            context=context,
+            auto_fix_suggestion=auto_fix,
+            severity="MEDIUM",
+            **kwargs
+        )
+
+class ValidationError(CoffeCrawlerError):
+    """Raised when data validation fails"""
+    def __init__(self, validation_type: str, details: str, **kwargs):
+        context = {'validation_type': validation_type, 'details': details}
+        auto_fix = "Try: clean_data(), adjust_validation_rules(), or report_data_issue()"
+        super().__init__(
+            message=f"Data validation failed for {validation_type}: {details}",
+            error_code="VALIDATION_ERROR",
+            context=context,
+            auto_fix_suggestion=auto_fix,
+            severity="MEDIUM",
+            **kwargs
+        )
+
+class BrowserError(CoffeCrawlerError):
+    """Raised for headless browser-related errors"""
+    def __init__(self, browser_action: str, details: str, **kwargs):
+        context = {'browser_action': browser_action, 'details': details}
+        auto_fix = "Try: restart_browser(), clear_browser_cache(), or update_webdriver()"
+        super().__init__(
+            message=f"Browser error during {browser_action}: {details}",
+            error_code="BROWSER_ERROR",
+            context=context,
+            auto_fix_suggestion=auto_fix,
+            severity="HIGH",
+            **kwargs
+        )
+
+class DebugError(CoffeCrawlerError):
+    """Raised for debugging-related errors"""
+    def __init__(self, component: str, issue: str, **kwargs):
+        context = {'component': component, 'issue': issue}
+        auto_fix = "Try: disable_debug_mode(), review_component_logs(), or run_diagnostics()"
+        super().__init__(
+            message=f"Debug error in {component}: {issue}",
+            error_code="DEBUG_ERROR",
+            context=context,
+            auto_fix_suggestion=auto_fix,
+            severity="LOW",
+            **kwargs
+        )
+
+class FixerError(CoffeCrawlerError):
+    """Raised when auto-fixing fails"""
+    def __init__(self, fix_attempt: str, reason: str, **kwargs):
+        context = {'fix_attempt': fix_attempt, 'reason': reason}
+        auto_fix = "Try: manually_apply_fix(), revert_to_snapshot(), or report_fixer_issue()"
+        super().__init__(
+            message=f"Auto-fix failed for '{fix_attempt}': {reason}",
+            error_code="FIXER_FAILURE",
+            context=context,
+            auto_fix_suggestion=auto_fix,
+            severity="MEDIUM",
+            **kwargs
+        )
+
+class RecoveryError(CoffeCrawlerError):
+    """Raised when error recovery fails"""
+    def __init__(self, recovery_strategy: str, original_error: str, **kwargs):
+        context = {'recovery_strategy': recovery_strategy, 'original_error': original_error}
+        auto_fix = "Try: use_safe_mode(), perform_full_restart(), or escalate_to_manual_intervention()"
+        super().__init__(
+            message=f"Recovery strategy '{recovery_strategy}' failed: {original_error}",
+            error_code="RECOVERY_FAILURE",
+            context=context,
+            auto_fix_suggestion=auto_fix,
+            severity="HIGH",
+            **kwargs
+        )
+
+class JSError(CoffeCrawlerError):
+    """Raised for JavaScript execution errors"""
+    def __init__(self, js_code: str, error_message: str, **kwargs):
+        context = {'js_code': js_code[:200], 'error_message': error_message}
+        auto_fix = "Try: fix_js_syntax(), use_js_fallback(), or disable_js_execution()"
+        super().__init__(
+            message=f"JavaScript error: {error_message}",
+            error_code="JS_ERROR",
+            context=context,
+            auto_fix_suggestion=auto_fix,
+            severity="MEDIUM",
+            **kwargs
+        )
+
 class SecurityError(CoffeCrawlerError):
     """Raised when security issues detected"""
     def __init__(self, security_threat: str, risk_level: str, **kwargs):
@@ -481,6 +579,13 @@ __all__ = [
     'ProxyError',
     'identityError',
     'SecurityError',
+    'DataExtractionError',
+    'ValidationError',
+    'BrowserError',
+    'DebugError',
+    'FixerError',
+    'RecoveryError',
+    'JSError',
 ]
 
 # Smart exception handler utility

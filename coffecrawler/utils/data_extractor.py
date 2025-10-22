@@ -78,7 +78,7 @@ class DataQualityMetrics:
     overall_score: float
 
 
-class QuantumDataExtractor:
+class DataExtractor:
     """
     🎯 QUANTUM DATA EXTRACTOR - Revolutionary Intelligent Data Extraction
     
@@ -1672,9 +1672,9 @@ class ExtractionPerformanceMonitor:
 
 
 # Factory function
-def create_quantum_data_extractor(crawler, ai_enhancement: bool = True) -> QuantumDataExtractor:
+def create_data_extractor(crawler, ai_enhancement: bool = True) -> DataExtractor:
     """Factory function to create quantum data extractor"""
-    extractor = QuantumDataExtractor(crawler)
+    extractor = DataExtractor(crawler)
     extractor.ai_enhancement = ai_enhancement
     return extractor
 
